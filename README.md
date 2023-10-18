@@ -1,6 +1,6 @@
 # Gabriella Gnoatto
 ## 🌈 Sobre mim
-Graduada em Engenharia Civil, tive meu primeiro contato com a área de tecnologia em uma disciplina da graduação. Em 2021 fundei uma Construtora e Incorporadora, depois de aproximadamente 3 anos de empresa, meu interesse pela área de TI emergiu, então comecei a estudar Engenharia de Qualidade de Software e Desenvolvimento Fullstack e em breve inicio carreira na área tech.
+Graduada em Engenharia Civil, tive meu primeiro contato com a área de tecnologia em uma disciplina da graduação. Em 2021 fundei uma Construtora e Incorporadora, depois de aproximadamente 3 anos de empresa, meu interesse pela área de TI emergiu, então comecei a estudar Engenharia de Qualidade de Software e em breve inicio carreira na área tech.
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellagnoatto/)
