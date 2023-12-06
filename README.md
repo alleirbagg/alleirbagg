@@ -6,8 +6,7 @@ Entusiasta de tecnologia buscando oportunidades desafiadoras na área de testes 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellagnoatto/)
 
 ## 💻 Tech Stacks
-![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3) ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk) ![cypress](https://img.shields.io/badge/-cypress-000?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git)
-
+![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000.svg?style=for-the-badge&logo=css3)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alleirbagg&theme=dark&show_icons=true)
 
