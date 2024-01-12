@@ -1,6 +1,6 @@
 # Gabriella Gnoatto
 ## 🌈 Sobre mim
-Entusiasta de tecnologia buscando oportunidades desafiadoras na área de testes de qualidade de software, com a ambição de contribuir para soluções inovadoras e aprender constantemente. No início de 2023 ingressei na área de TI através do curso profissionalizante de Engenharia de Qualidade de Software, desde então estou me capacitando e desenvolvendo hard e soft skills essenciais para um ótimo desempenho como Analista de Testes/QA.
+Entusiasta de tecnologia buscando oportunidades desafiadoras na área de testes de qualidade de software, com a ambição de contribuir para soluções inovadoras e aprender constantemente. No início de 2023 ingressei na área de TI através do curso profissionalizante de Engenharia de Qualidade de Software, desde então estou me capacitando e desenvolvendo hard e soft skills essenciais para um ótimo desempenho como Analista de Testes/QA. Para complementar meu conhecimento e formação, acabo de iniciar a graduação em Engenharia de Software. 
 
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriellagnoatto/)
